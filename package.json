@@ -3,9 +3,8 @@
 	"version": "1.0.0",
 	"private": true,
 	"description": "Simple static portfolio served with a Node.js server",
-	"main": "server.js",
+	"main": "index.html",
 	"scripts": {
-		"start": "node server.js",
 		"dev": "npx live-server --port=3001 --open=index.html"
 	},
 	"keywords": [
